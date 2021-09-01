@@ -9,6 +9,10 @@ public class Runner {
 
 		System.out.println("Number 1: " + number1);
 
+		for(int i=0;i<99;i++){
+			//Simple test.
+		}
+
 	}
 
 }
